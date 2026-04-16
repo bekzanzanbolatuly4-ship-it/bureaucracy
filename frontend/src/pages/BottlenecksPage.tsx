@@ -65,7 +65,7 @@ export default function BottlenecksPage({ analysis }: { analysis: AnalyzeRespons
               </div>
 
               <div className="mt-4 text-xs text-zinc-500 dark:text-white/60">
-                Rule-of-thumb: delay >= 24h or approvals >= 3
+                Rule-of-thumb: delay &ge; 24h or approvals &gt;
               </div>
             </motion.div>
           ))}
