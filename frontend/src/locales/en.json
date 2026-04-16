@@ -1,0 +1,54 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "upload": "Data Upload",
+    "bottlenecks": "Bottlenecks",
+    "recommendations": "Recommendations",
+    "statistics": "Statistics",
+    "settings": "Settings"
+  },
+  "common": {
+    "demoMode": "Try Demo Mode",
+    "theme": "Theme",
+    "language": "Language",
+    "dark": "Dark",
+    "light": "Light",
+    "company": "Company",
+    "save": "Save",
+    "runAnalysis": "Run analysis",
+    "tryDemoData": "Try demo data",
+    "uploadCsv": "Upload CSV"
+  },
+  "dashboard": {
+    "title": "Process Intelligence (MVP)",
+    "subtitle": "Bottlenecks + loss estimate in ₸",
+    "totalLoss": "Total estimated loss",
+    "roiProgress": "ROI calculation progress"
+  },
+  "upload": {
+    "title": "CSV / 1C import",
+    "dropTitle": "Drag & drop your CSV here",
+    "dropHint": "Supported headers: step|name, duration_hours, approvals, cost_kzt_hour|cost_per_hour_kzt",
+    "statusIdle": "Waiting for file…",
+    "statusSuccess": "Upload validated ✓",
+    "statusError": "CSV format is not valid"
+  },
+  "bottlenecks": {
+    "title": "Bottlenecks"
+  },
+  "recommendations": {
+    "title": "AI insights"
+  },
+  "statistics": {
+    "title": "Statistics",
+    "simulation": "ROI improvement simulation",
+    "reduceBy": "Reduce delays by",
+    "savings": "Potential savings",
+    "newLoss": "New estimated loss"
+  },
+  "settings": {
+    "title": "Settings",
+    "demoAuto": "When enabled, the app loads demo data and animates results (no backend needed)."
+  }
+}
+

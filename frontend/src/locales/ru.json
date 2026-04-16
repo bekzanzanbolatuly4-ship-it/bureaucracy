@@ -1,0 +1,54 @@
+{
+  "nav": {
+    "dashboard": "Дашборд",
+    "upload": "Загрузка данных",
+    "bottlenecks": "Боттлнеки",
+    "recommendations": "Рекомендации",
+    "statistics": "Статистика",
+    "settings": "Настройки"
+  },
+  "common": {
+    "demoMode": "Включить Demo Mode",
+    "theme": "Тема",
+    "language": "Язык",
+    "dark": "Тёмная",
+    "light": "Светлая",
+    "company": "Компания",
+    "save": "Сохранить",
+    "runAnalysis": "Запустить анализ",
+    "tryDemoData": "Загрузить демо данные",
+    "uploadCsv": "Загрузить CSV"
+  },
+  "dashboard": {
+    "title": "Process Intelligence (MVP)",
+    "subtitle": "Боттлнеки + оценка потерь в ₸",
+    "totalLoss": "Общая оценка потерь",
+    "roiProgress": "Прогресс расчёта ROI"
+  },
+  "upload": {
+    "title": "CSV / 1C импорт",
+    "dropTitle": "Перетащите CSV сюда",
+    "dropHint": "Поддерживаемые колонки: step|name, duration_hours, approvals, cost_kzt_hour|cost_per_hour_kzt",
+    "statusIdle": "Ожидание файла…",
+    "statusSuccess": "Валидация пройдена ✓",
+    "statusError": "Формат CSV не подходит"
+  },
+  "bottlenecks": {
+    "title": "Боттлнеки"
+  },
+  "recommendations": {
+    "title": "AI insights"
+  },
+  "statistics": {
+    "title": "Статистика",
+    "simulation": "Моделирование улучшений ROI",
+    "reduceBy": "Снизить задержки на",
+    "savings": "Потенциальная экономия",
+    "newLoss": "Новая оценка потерь"
+  },
+  "settings": {
+    "title": "Настройки",
+    "demoAuto": "При включении приложение загрузит демо-данные и анимирует результаты (без бэкенда)."
+  }
+}
+

@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "useDefineForClassFields": true,
+    "lib": ["ES2022", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "skipLibCheck": true,
+    "moduleResolution": "Bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "strict": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    }
+  },
+  "include": [
+    "src/main.tsx",
+    "src/App.tsx",
+    "src/api.ts",
+    "src/demoData.ts",
+    "src/lib/i18n.ts",
+    "src/pages/DashboardPage.tsx",
+    "src/pages/DataUploadPage.tsx",
+    "src/pages/BottlenecksPage.tsx",
+    "src/pages/RecommendationsPage.tsx",
+    "src/pages/StatisticsPage.tsx",
+    "src/pages/SettingsPage.tsx",
+    "src/ux/**/*",
+    "src/vite-env.d.ts"
+  ]
+}
+

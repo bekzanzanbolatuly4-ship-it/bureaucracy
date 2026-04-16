@@ -1,0 +1,54 @@
+{
+  "nav": {
+    "dashboard": "Дашборд",
+    "upload": "Деректерді жүктеу",
+    "bottlenecks": "Боттлнектер",
+    "recommendations": "Ұсыныстар",
+    "statistics": "Статистика",
+    "settings": "Баптау"
+  },
+  "common": {
+    "demoMode": "Demo Mode қосу",
+    "theme": "Тақырып",
+    "language": "Тіл",
+    "dark": "Қараңғы",
+    "light": "Жарық",
+    "company": "Компания",
+    "save": "Сақтау",
+    "runAnalysis": "Талдауды бастау",
+    "tryDemoData": "Демо деректерді жүктеу",
+    "uploadCsv": "CSV жүктеу"
+  },
+  "dashboard": {
+    "title": "Process Intelligence (MVP)",
+    "subtitle": "Боттлнектер + ₸ шығын бағасы",
+    "totalLoss": "Жалпы шығын бағасы",
+    "roiProgress": "ROI есептеу прогресі"
+  },
+  "upload": {
+    "title": "CSV / 1C импорт",
+    "dropTitle": "CSV файлын осында тастаңыз",
+    "dropHint": "Қолдау көрсетілетін бағандар: step|name, duration_hours, approvals, cost_kzt_hour|cost_per_hour_kzt",
+    "statusIdle": "Файл күтілуде…",
+    "statusSuccess": "Тексеру өтті ✓",
+    "statusError": "CSV форматы дұрыс емес"
+  },
+  "bottlenecks": {
+    "title": "Боттлнектер"
+  },
+  "recommendations": {
+    "title": "AI insights"
+  },
+  "statistics": {
+    "title": "Статистика",
+    "simulation": "ROI жақсарту симуляциясы",
+    "reduceBy": "Кешігуді",
+    "savings": "Ықтимал үнем",
+    "newLoss": "Жаңа шығын бағасы"
+  },
+  "settings": {
+    "title": "Баптау",
+    "demoAuto": "Қосылғанда бағдарлама демо-деректерді жүктеп, нәтижені көрсетеді (бэкендсіз)."
+  }
+}
+
